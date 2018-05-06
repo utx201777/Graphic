@@ -6,3 +6,4 @@
 
 ## Texture synthesis
 - matlab实现的纹理合成
+- OpenCV实现的纹理合成
