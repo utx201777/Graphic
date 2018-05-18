@@ -7,3 +7,7 @@
 ## Texture synthesis
 - matlab实现的纹理合成
 - OpenCV实现的纹理合成
+
+## Geometry
+- 在图形学中常见的几何运算实现
+- glm是一个OpenGL中的数学库
