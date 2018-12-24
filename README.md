@@ -11,3 +11,6 @@
 ## Geometry
 - 在图形学中常见的几何运算实现
 - glm是一个OpenGL中的数学库
+
+## PureOpenGL
+- 一个更加简洁的OpenGL渲染程序框架
